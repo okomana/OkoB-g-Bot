@@ -1,0 +1,28 @@
+{
+  "name": "okobot",
+  "version": "1.0.0",
+  "description": "OkoBóg",
+  "main": "index.js",
+  "scripts": {
+    "run":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okomana/OkoBog-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bots",
+    "discord-js"
+  ],
+  "author": "Okomana Borys Mleczewski",
+  "license": "MIT",
+  "bugs": {
+    "url":"https://github.com/okomana/OkoBog-Bot/issues"
+  },
+  "publisher": "https://github.com/okomana/OkoB-g-Bot",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
